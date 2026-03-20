@@ -1,0 +1,6 @@
+# GesturePainter — Python 3.13 compatible dependencies
+# Install with: pip install -r requirements.txt
+
+mediapipe>=0.10.14
+opencv-python>=4.9.0.80
+numpy>=1.26.4
