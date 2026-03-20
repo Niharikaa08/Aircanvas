@@ -2,9 +2,8 @@
 
 > Turn your webcam into an invisible paintbrush. Wave your hand and watch smooth digital ink appear in real time — no touch, no mouse, just you.
 
-![Air Canvas Demo](![gif](https://github.com/user-attachments/assets/b9d20bc4-a2e0-4b15-ba02-1767e1d4064f)
-)
-
+![Air Canvas Demo](gif.gif)
+*(Add your screen recording GIF here — see instructions below)*
 
 ---
 
